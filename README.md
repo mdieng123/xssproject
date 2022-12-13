@@ -1,0 +1,2 @@
+# xssproject
+XSS detection script
